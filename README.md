@@ -1,5 +1,33 @@
-# automated-readme-generator
-README file generator using node
+# README Generator
+
+## Description
+
+The README generator application is aimed to generate a professional README file based on the answers provided to a series of questions from the command line using Node.js
+
+## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Tests](#tests)
+
+## Installation 
+  The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. 
+
+## Usage 
+  Use inquirer from your command line to answer questions about your project.
+
+## License 
+  
+  Licensed under MIT License.
+
+## Tests
+  npm test
+
+
+
+
+
+
 
 
 
