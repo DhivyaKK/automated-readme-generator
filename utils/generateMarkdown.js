@@ -77,7 +77,11 @@ function generateMarkdown(data) {
    
   ## Questions
 
-  For any questions regarding this project, please contact email ${data.email}`;
+  For more information, please visit https://github.com/${data.username}
+  
+  For any questions regarding this project, please email me at ${data.email} `;
+
+  
 
   draftmarkdown += drafQuestions;
 

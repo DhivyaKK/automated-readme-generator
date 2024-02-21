@@ -65,7 +65,7 @@ const questions = [
     {
         type : 'input',
         name : 'usage',
-        message : 'What does the user need to know about using your repo?',
+        message : 'What does the user need to know about using your repository?',
     },
     {
         type: 'input',

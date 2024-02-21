@@ -11,17 +11,29 @@ The README generator application is aimed to generate a professional README file
   * [Tests](#tests)
 
 ## Installation 
-  The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. 
+
+ The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. 
+
+ From the command line,  use the command to install inquirer.js. 
+ npm i inquirer@6.3.1 
+ npm i
+ node index.js to run the application.
 
 ## Usage 
-  Use inquirer from your command line to answer questions about your project.
+
+  
+  Inquirer.js strives to be an easily embeddable and beautiful command line interface for Node.js . It eases the process of providing
+  error feedback, asking question, parsing input, validating answers and managing hierarchical prompts.
+
+  Use inquirer from your command line to answer questions about your project. The response provided to the questions are recorded under appropriate
+  sections in the README.md file generated.
 
 ## License 
   
   Licensed under MIT License.
 
 ## Tests
-  npm test
+  Run the command npm test in the command line terminal to run test for the project.
 
 
 
