@@ -30,6 +30,9 @@ step 3: node index.js to run the application.
 
 When you run node index.js, the application uses the inquirer package to prompt you in the command line with a series of questions about your GitHub and about your project to receive user response. The responses are then presented under different sections of a README.md file (this project creates a README-Generate.md file in root directory).
 
+Github code for the application is available at
+    <a href="https://github.com/DhivyaKK/automated-readme-generator.git"><img src="https://img.shields.io/badge/git-code-repository"  alt="github code repository" /></a>
+
 ![Alt text](./images/image.png)
 
 A short clip of the demonstration of how the application works is shown below.
