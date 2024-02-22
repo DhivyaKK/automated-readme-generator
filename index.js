@@ -93,11 +93,11 @@ function init() {
     //prompt user with inquirer questions
     inquirer.prompt(questions).then((data) =>{
 
-    //pass inquirer user response to generateMarkDown
+    //pass user response to generateMarkDown
     const markdown = generateMarkdown(data);
 
     //write markdown to README file
-    writeToFile('TestREADME.md', markdown);
+    writeToFile('README-Generate.md', markdown);
     });
 }
 
