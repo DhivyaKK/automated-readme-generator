@@ -47,7 +47,7 @@ Licensed under MIT License.
 
 ## Tests
 
-Run the command npm test in the command line terminal to run test for the project.
+Run the command npm run test in the command line terminal to run test for the project.
 
 
 
